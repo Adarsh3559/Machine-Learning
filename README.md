@@ -22,3 +22,5 @@ The results is reported as the accuracy of each classifier, using the following 
 
 
 The model were trained on Loan_Train.CSV and they were tested on different dataset i.e. Loan_Test.CSV
+
+The was the final project for Machine Learning course by IBM on coursera.
